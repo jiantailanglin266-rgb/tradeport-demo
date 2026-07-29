@@ -1,0 +1,25 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /go/
+Disallow: /admin/
+Disallow: /dashboard/
+Disallow: /*/community
+
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: ClaudeBot
+Allow: /
+
+User-Agent: PerplexityBot
+Allow: /
+
+User-Agent: Google-Extended
+Allow: /
+
+User-Agent: CCBot
+Allow: /
+
+Host: https://jiantailanglin266-rgb.github.io/tradeport-demo
+Sitemap: https://jiantailanglin266-rgb.github.io/tradeport-demo/sitemap.xml
